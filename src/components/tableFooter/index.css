@@ -1,0 +1,21 @@
+
+.table_footer {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: rgb(255, 255, 255);
+	padding: 15px;
+}
+
+.table_footer__results {
+	color: rgb(0, 0, 0);
+	font-size: 10px;
+	font-weight: 600;
+}
+
+.table_footer__pagination {
+	background-color: rgb(255, 255, 255);
+	padding: 5px 12px;
+	border-radius: 4px;
+	color: rgb(0, 0, 0);
+}

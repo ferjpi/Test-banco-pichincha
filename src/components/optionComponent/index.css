@@ -1,0 +1,13 @@
+
+.option_container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.option_container__dots {
+	transform: rotate(90deg);
+	font-size: 25px;
+	font-weight: 600;
+	cursor: pointer;
+}
